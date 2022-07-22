@@ -11,3 +11,4 @@
 ![Screenshot from 2022-07-20 13-02-31](https://user-images.githubusercontent.com/61587290/180414196-cdd6f9e2-1e51-40b2-8236-2744f65da84c.png)
 ![image](https://user-images.githubusercontent.com/61587290/180505269-5410d43f-b7fd-4746-9278-9d56772cc2ab.png)
 
+> [my all time reference on JWT](https://stackoverflow.com/questions/31309759/what-is-secret-key-for-jwt-based-authentication-and-how-to-generate-it/62095056#62095056)
